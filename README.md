@@ -1,4 +1,4 @@
-# Simulasi-UAS
+# Simulasi UAS Jarkom Lanjut
 
-Nama: Ahmad Khoirudin
-NIM: 20210801109
+# Nama: Ahmad Khoirudin
+# NIM: 20210801109
